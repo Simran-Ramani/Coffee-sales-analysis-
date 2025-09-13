@@ -114,6 +114,9 @@ Key SQL steps included in Coffee sales sql query.sql:
   
 - CSV Dataset
 
+  <img width="586" height="335" alt="image" src="https://github.com/user-attachments/assets/dffd2d82-06bd-4557-8c98-11f9f27d0b47" />
+
+
 # Author 
   Simran Ramani
   
