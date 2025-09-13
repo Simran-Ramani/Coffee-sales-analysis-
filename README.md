@@ -2,7 +2,7 @@
 
 This project analyzes a coffee shop’s transaction dataset to uncover sales trends, customer behavior, and product performance. It combines SQL queries for data exploration with a Power BI dashboard for interactive visualization.
 
-The goal is to demonstrate beginner-to-intermediate level skills in SQL data analysis and Power BI reporting.
+The goal is to demonstrate beginner-to-intermediate level skills in SQL data analysis and Power BI reporting. 
 
 # Files in Repository
  
