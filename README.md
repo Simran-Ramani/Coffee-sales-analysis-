@@ -23,15 +23,21 @@ Key SQL steps included in Coffee sales sql query.sql:
 - Sales Trends
 
    SELECT date, SUM(money) AS daily_sales
+  
    FROM [dbo].[index]
+  
    GROUP BY date
+  
    ORDER BY date;
  
 - Best-Selling Products
 
   SELECT coffee_name, COUNT(*) AS total_sold, SUM(money) AS total_revenue
+  
   FROM [dbo].[index]
+  
   GROUP BY coffee_name
+  
   ORDER BY total_revenue DESC;
 
 - Payment Method Split
